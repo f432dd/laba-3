@@ -1,0 +1,13 @@
+C:\Users\1\Desktop\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.exe
+C:\Users\1\Desktop\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.deps.json
+C:\Users\1\Desktop\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.runtimeconfig.json
+C:\Users\1\Desktop\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.runtimeconfig.dev.json
+C:\Users\1\Desktop\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.dll
+C:\Users\1\Desktop\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.pdb
+C:\Users\1\Desktop\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.csprojAssemblyReference.cache
+C:\Users\1\Desktop\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.AssemblyInfo.cs
+C:\Users\1\Desktop\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.dll
+C:\Users\1\Desktop\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.pdb
+C:\Users\1\Desktop\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.genruntimeconfig.cache
